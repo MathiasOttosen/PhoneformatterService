@@ -1,0 +1,14 @@
+D:\dev\friendlyphonenumber\bin\Release\netcoreapp2.1\friendlyphonenumber.deps.json
+D:\dev\friendlyphonenumber\bin\Release\netcoreapp2.1\friendlyphonenumber.runtimeconfig.json
+D:\dev\friendlyphonenumber\bin\Release\netcoreapp2.1\friendlyphonenumber.runtimeconfig.dev.json
+D:\dev\friendlyphonenumber\bin\Release\netcoreapp2.1\friendlyphonenumber.dll
+D:\dev\friendlyphonenumber\bin\Release\netcoreapp2.1\friendlyphonenumber.pdb
+D:\dev\friendlyphonenumber\obj\Release\netcoreapp2.1\friendlyphonenumber.csprojAssemblyReference.cache
+D:\dev\friendlyphonenumber\obj\Release\netcoreapp2.1\friendlyphonenumber.csproj.CoreCompileInputs.cache
+D:\dev\friendlyphonenumber\obj\Release\netcoreapp2.1\friendlyphonenumber.RazorAssemblyInfo.cache
+D:\dev\friendlyphonenumber\obj\Release\netcoreapp2.1\friendlyphonenumber.RazorAssemblyInfo.cs
+D:\dev\friendlyphonenumber\obj\Release\netcoreapp2.1\friendlyphonenumber.AssemblyInfoInputs.cache
+D:\dev\friendlyphonenumber\obj\Release\netcoreapp2.1\friendlyphonenumber.AssemblyInfo.cs
+D:\dev\friendlyphonenumber\obj\Release\netcoreapp2.1\friendlyphonenumber.RazorTargetAssemblyInfo.cache
+D:\dev\friendlyphonenumber\obj\Release\netcoreapp2.1\friendlyphonenumber.dll
+D:\dev\friendlyphonenumber\obj\Release\netcoreapp2.1\friendlyphonenumber.pdb
